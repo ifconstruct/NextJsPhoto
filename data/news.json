@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "slow-photography",
+    "date": "2026-10-05",
+    "category": "Notes",
+    "title": "The art of looking slower",
+    "excerpt": "Why the best photographs appear when you stop searching for them.",
+    "image": "forest",
+    "body": [
+      "Sometimes you need to put the camera down and simply look. Light settles on branches, the air shifts, and the urge to hurry fades. This is where attentive photography begins.",
+      "Choose one place and spend half an hour there. Instead of searching for the perfect subject, watch the light. The same landscape can tell many different stories.",
+      "This is a sample journal entry. Replace it with your own story and photographs."
+    ]
+  },
+  {
+    "slug": "natural-light",
+    "date": "2026-09-18",
+    "category": "Behind the scenes",
+    "title": "The light already around us",
+    "excerpt": "A window, an overcast day, and a little trust \u2014 the ingredients for a living portrait.",
+    "image": "portrait",
+    "body": [
+      "Natural light lets you start a session with a simple setup. A large window becomes a soft light source, and a neutral wall makes a quiet backdrop.",
+      "Leave space for movement and conversation. A small pause often reveals more than a carefully planned pose.",
+      "This sample entry can be replaced with photography tips, session stories, or announcements."
+    ]
+  },
+  {
+    "slug": "mountain-notebook",
+    "date": "2026-09-02",
+    "category": "Travel",
+    "title": "Mountain notes: closer to the sky",
+    "excerpt": "A few thoughts on the road, scale, and being small in a wide world.",
+    "image": "mountains",
+    "body": [
+      "In the mountains, you feel the scale of things. The journey slows down, and familiar details matter: a trail, a cloud, a strip of light across a slope.",
+      "A series needs more than one striking photograph. Details and pauses between wide views help convey the feeling of a journey.",
+      "This sample JSON-powered journal entry is ready for your own text."
+    ]
+  }
+]

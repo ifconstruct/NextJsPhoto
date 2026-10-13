@@ -1,0 +1,50 @@
+[
+  {
+    "id": "coast",
+    "title": "On the edge of stillness",
+    "category": "Nature",
+    "location": "The coast",
+    "image": "photo-1470071459604-3b5ec3a7fe05",
+    "alt": "Green mountain ridges in morning mist"
+  },
+  {
+    "id": "portrait",
+    "title": "Simply you",
+    "category": "Portraits",
+    "location": "Natural light",
+    "image": "photo-1534528741775-53994a69daeb",
+    "alt": "Outdoor portrait of a woman"
+  },
+  {
+    "id": "mountains",
+    "title": "Above the clouds",
+    "category": "Travel",
+    "location": "The mountains",
+    "image": "photo-1464822759023-fed622ff2c3b",
+    "alt": "Rocky mountain peak beneath clouds"
+  },
+  {
+    "id": "forest",
+    "title": "The forest remembers",
+    "category": "Nature",
+    "location": "A woodland story",
+    "image": "photo-1448375240586-882707db888b",
+    "alt": "Sunlight streaming through forest trees"
+  },
+  {
+    "id": "city",
+    "title": "City rhythms",
+    "category": "Travel",
+    "location": "New York",
+    "image": "photo-1519501025264-65ba15a82390",
+    "alt": "New York skyline at dusk"
+  },
+  {
+    "id": "light",
+    "title": "Between light and shadow",
+    "category": "Portraits",
+    "location": "A portrait story",
+    "image": "photo-1524504388940-b1c1722653e1",
+    "alt": "Woman photographed in soft natural light"
+  }
+]
